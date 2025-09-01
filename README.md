@@ -52,8 +52,8 @@ This project is designed for team collaboration with comprehensive documentation
 
 ### 1. Clone Repository
 ```bash
-git clone <repository-url>
-cd DoS_Detection_Research
+git clone https://github.com/AkashMadanu/dos_detection.git
+cd dos_detection
 ```
 
 ### 2. Read Main Documentation
@@ -80,5 +80,5 @@ All processed datasets are in the `data/` folder, ready for Step 4 model trainin
 4. Follow established validation methodology
 
 ## Contact
-Project Lead: [Your Name]
+Project Lead: Akash Madanu
 Research Focus: XAI-Powered Cybersecurity Systems
